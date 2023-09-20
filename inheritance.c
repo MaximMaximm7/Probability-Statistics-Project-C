@@ -1,9 +1,5 @@
 // Simulate genetic inheritance of blood type
 
-// cd inheritance      // inheritance.c
-// make inheritance    // ./inheritance
-// valgrind ./inheritance
-
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
